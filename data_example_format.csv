@@ -1,0 +1,11 @@
+Endpoints,App1,App2,App3,App4,App5,App6,App7,App8,App9,App10,App11,App12,App13,App14,App15,App16,App17,App18,App19,App20
+Service1,1,1,,1,,,,,1,1,1,1,1,1,1,,1,,,
+Service2,,,,,,,,,,,,,,,,,,,,
+Service3,,,,,,,,,,1,,1,1,1,1,,,,,
+Service4,,,,,,,,,,,,,,,,,1,,,
+Service5,,,,,,,,,,,,,,,,,1,,,
+Service6,1,1,,1,,,,,1,1,1,1,1,,1,,,,,1
+Service7,,,,,,,,,,,,,,,,,,,,
+Service8,,,,,,,,,,,,,,,,,,,,
+Service9,,,,,,,,,,,,,,1,,,,,1,
+Service10,,,,,,,,,,,,,,,,,,,1,
